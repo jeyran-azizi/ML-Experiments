@@ -12,7 +12,7 @@ This project implements a Convolutional Neural Network from scratch using PyTorc
 **Installation:**
 1. Clone this repository:
    ```bash
-   git clone https://github.com/jeyran-azizi/Deep-Learning.git
+   git clone https://github.com/jeyran-azizi/ML-Experiments.git
    cd Deep-Learning/cnn
    ```
 2. Install dependencies:
