@@ -12,8 +12,8 @@ Project Overview:
 Installation:
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/cifar10-pytorch.git
-   cd cifar10-pytorch/cnn
+   git clone https://github.com/jeyran-azizi/Deep-Learning.git
+   cd Deep-Learning/cnn
    ```
 2. Install dependencies:
    ```bash
