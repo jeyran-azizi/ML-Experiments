@@ -1,8 +1,8 @@
-**Convolutional Neural Network (CNN) for CIFAR-10 Classification**
+# Convolutional Neural Network (CNN) for CIFAR-10 Classification
 
 This project implements a Convolutional Neural Network from scratch using PyTorch to classify images in the CIFAR-10 dataset.
 
-Project Overview:
+**Project Overview:**
 - Dataset: CIFAR-10 (10 classes, 60,000 images)
 - Model: Custom CNN with two convolutional layers
 - Optimizer: Adam
