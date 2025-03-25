@@ -9,7 +9,7 @@ This project implements a Convolutional Neural Network from scratch using PyTorc
 - Loss Function: CrossEntropyLoss
 - Metrics: Accuracy, Precision, Recall, F1-score
 
-Installation:
+**Installation:**
 1. Clone this repository:
    ```bash
    git clone https://github.com/jeyran-azizi/Deep-Learning.git
@@ -20,20 +20,20 @@ Installation:
    pip install torch torchvision numpy matplotlib scikit-learn
    ```
 
-Dataset:
+**Dataset:**
 The dataset is automatically downloaded from Torchvision.
 - Training: 80% of CIFAR-10 dataset
 - Validation: 20% of CIFAR-10 dataset
 - Test: Separate CIFAR-10 test set
 
-Model Architecture:
+**Model Architecture:**
 The CNN consists of:
 1. Conv2D (3→32) → ReLU → MaxPooling
 2. Conv2D (32→64) → ReLU → MaxPooling
 3. Fully Connected Layer (512 neurons) → ReLU → Dropout
 4. Output Layer (10 classes)
 
-Usage:
+**Usage:**
 1️⃣ Train the Model
 - Run the training script:
 ```bash
@@ -57,19 +57,19 @@ model.load_state_dict(torch.load("cifar10_cnn.pth"))
 model.eval()
 ```
 
-Results
+**Results**
 After training, the model achieved:
 - Validation Accuracy: 74%
 
-Notes:
+**Notes:**
 - The trained model is saved as `cifar10_cnn.pth`.
 - Modify `train.py` to tune hyperparameters.
 
-TODO:
+**TODO:**
 - Improve model architecture
 - Add data augmentation techniques
 - Experiment with different optimizers
 
-Acknowledgments:
+**Acknowledgments:**
 - PyTorch
 - CIFAR-10 dataset (Krizhevsky, 2009)
