@@ -34,19 +34,19 @@ The CNN consists of:
 4. Output Layer (10 classes)
 
 Usage:
-1. Train the Model
+1️⃣ Train the Model
 Run the training script:
 ```bash
 python train.py
 ```
 
-2. Evaluate the Model
+2️⃣ Evaluate the Model
 After training, test the model using:
 ```bash
 python evaluate.py
 ```
 
-3. Load Pretrained Model
+3️⃣ Load Pretrained Model
 To use the saved model:
 ```python
 import torch
