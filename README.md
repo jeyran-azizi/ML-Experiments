@@ -72,5 +72,3 @@ The test script will evaluate the model's performance on the test data and outpu
 - CIFAR-10 dataset (https://www.cs.toronto.edu/~kriz/cifar.html)
 - PyTorch (https://pytorch.org/)
 - torchvision (https://pytorch.org/vision/stable/index.html)
-
-```
