@@ -13,6 +13,9 @@ This repository contains a collection of introductory machine learning projects 
   - Train-test split
   - Model training using Decision Tree, Logistic Regression, KNN, and Random Forest
   - Evaluation with accuracy and classification report
+- **Accuracy:**  
+  - KNN: ~0.97  
+  - Decision Tree: ~0.96
 
 ### 🚢 Titanic Survival Prediction
 - **Dataset:** [Titanic dataset](https://www.kaggle.com/c/titanic)
@@ -22,6 +25,10 @@ This repository contains a collection of introductory machine learning projects 
   - One-hot encoding
   - Model comparison
   - Feature importance
+- **Accuracy:**  
+  - Logistic Regression: ~0.82 
+  - Decision Tree: ~0.79 
+  - KNN: ~0.78
 
 ### 📚 Student Performance Analysis
 - **Dataset:** [Student Performance dataset](https://archive.ics.uci.edu/ml/datasets/Student+Performance)
@@ -31,6 +38,10 @@ This repository contains a collection of introductory machine learning projects 
   - Data cleaning
   - Model performance metrics
   - Visual insights
+- **Accuracy:**  
+  - Logistic Regression: ~0.83
+  - Decision Tree: ~0.82
+  - KNN: ~0.79
 
 ## Requirements
 
