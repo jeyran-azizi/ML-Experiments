@@ -41,4 +41,4 @@ This project uses the Titanic dataset to predict passenger survival based on per
 Open the notebook:
 
 ```bash
-jupyter notebook Titanic.ipynb
+jupyter notebook Titanic~.ipynb
