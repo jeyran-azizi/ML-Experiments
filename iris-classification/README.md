@@ -39,4 +39,4 @@ This project uses the famous Iris dataset to classify flowers into three species
 Open the notebook:
 
 ```bash
-jupyter notebook iris_classification.ipynb
+jupyter notebook iris~.ipynb
